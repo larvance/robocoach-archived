@@ -1,6 +1,6 @@
 # robocoach
 Question generator and compiler
 
-[Preview](https://larvance.github.io/robocoach/)
+# This project is being rewritten from start in here: https://github.com/larvance/askyourself
 
-# If you want to add new lessons just [create a pull request :p](https://github.com/larvance/robocoach/pulls/)
+[Preview](https://larvance.github.io/robocoach/)
